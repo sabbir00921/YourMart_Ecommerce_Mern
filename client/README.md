@@ -1,16 +1,33 @@
-# React + Vite
+# 🛍️ Welcome to YourMart_Ecommerce
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **YourMart_Ecommerce** — a modern and user-friendly eCommerce platform currently under active development.  
+The project aims to provide a seamless online shopping experience for both customers and administrators through a powerful, full-stack web application.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Basic Overview
 
-## React Compiler
+**YourMart_Ecommerce** is being built with scalability, performance, and simplicity in mind.  
+It focuses on creating a smooth digital marketplace that allows users to browse, search, and purchase products with ease, while offering administrators full control over inventory, categories, brands, and orders.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🔧 Key Features (in progress)
+- 🧾 **Dynamic Product Management** — Add, edit, and manage products effortlessly.  
+- 🧍‍♂️ **User Authentication** — Secure login and registration system.  
+- 🛒 **Smart Cart System** — Real-time cart updates and checkout flow.  
+- 📦 **Order Tracking** — Manage orders and view their status easily.  
+- 🧭 **Admin Dashboard** — Centralized control for products, users, and analytics.  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### ⚙️ Tech Stack (planned)
+- **Frontend:** React, Tailwind CSS, ShadCN/UI  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT / Firebase  
+- **Deployment:** Vercel / Render (TBD)
+
+---
+
+🚧 **Note:**  
+This project is currently under development.  
+More features, modules, and detailed documentation will be added as the project evolves.
